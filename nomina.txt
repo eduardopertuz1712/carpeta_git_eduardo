@@ -1,4 +1,4 @@
 Nombre valor
 Dalexa 4.000.000
 alvaro 50.000.000
-alex 20.000.000
+alex 25.000.000
